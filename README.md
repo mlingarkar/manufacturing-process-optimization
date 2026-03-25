@@ -24,7 +24,7 @@ This project simulates manufacturing jobs across different machines, shifts, mat
 
 ## How the Project Works
 
-### 1. Data Generation
+### 1. Feature Data Generation
 The project first generates simulated manufacturing jobs using:
 - machine type
 - shift
