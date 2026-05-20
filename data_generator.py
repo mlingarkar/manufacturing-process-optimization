@@ -1,10 +1,3 @@
-#This project analyzes manufacturing production data to identify patterns in defects across machines, shifts, 
-# materials, tools, and process types. The goal is to understand which factors may be contributing to higher 
-# defect rates and provide insights that could support process improvement and scrap reduction.
-#creating a list to store as shifts and respective times
-
-#import Pythonds random module so the program could generate realistic simulated manufacturing records by randomly 
-#selecting values from the lists I created
 import random
 import csv
 
